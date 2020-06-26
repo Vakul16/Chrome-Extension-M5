@@ -1,2 +1,6 @@
 # Milestone5
-# Chrome Extension
+## Chrome Extension
+## Technologies Used
+
+JQuery
+HTML
