@@ -3,5 +3,7 @@
 ## Technologies Used
 
 JQuery
+
 Javascript
+
 HTML
