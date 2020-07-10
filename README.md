@@ -1,4 +1,4 @@
-# Milestone5
+## Milestone5
 ## Chrome Extension
 ## Technologies Used
 
